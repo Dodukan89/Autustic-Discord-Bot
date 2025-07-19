@@ -8,7 +8,7 @@ intents.message_content = True
 intents.guilds = True
 intents.message_content = True
 
-bot = commands.Bot(command_prefix='$', intents=intents)
+bot = commands.Bot(command_prefix='/', intents=intents)
 
 İMAGELER ="images"
 os.makedirs(İMAGELER, exist_ok=True)
@@ -19,7 +19,9 @@ async def on_ready():
 
 @bot.command()
 async def hello(ctx):
-    await ctx.send(f'Selam! ben {bot.user}!')
+    await ctx.send(f'Selam ben Çılgın Görsel Yorumlayıcı {bot.user}!')
+
+
 
 @bot.command()
 async def kontrol(ctx):
