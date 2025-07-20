@@ -1,4 +1,4 @@
-# Autustic-Discord-Bot
+# Autistic-Discord-Bot
 ## Neden böyle bir bot yaptım?🧐
 - İlk olarak bu fikir kendi ihtiyacımdan doğan bir fikir ( *eğlence malzemesi bunu şey gibi düşünebilirsiniz "Gerçekmi Aimı kontrolü" gibi* )
 - İkinci olarak geleceğe yatırım olur diye düşündüm çünkü bir topluluk kurma ihtimalime karşılık olarak kitleme uygun bir bot olur
